@@ -31,8 +31,8 @@ Provide your own Kaggle API token and run training locally before starting Strea
 Clone the repository and enter the project directory:
 
 ```bash
-git clone <repository-url>
-cd <repository-directory>
+git clone https://github.com/RoniFridman1/Titanic-Kaggle
+cd Titanic-Kaggle
 ```
 
 Create a virtual environment:
